@@ -18,7 +18,4 @@ Wasted time, never studied. Grown up time to study, change and LEVEL UP.
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/z3k.png)
 
-**may u needs ✨**
-
-- {{ site.author.email }}
 - github.com/{{ site.author.github }}

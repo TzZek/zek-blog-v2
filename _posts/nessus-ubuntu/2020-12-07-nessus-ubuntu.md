@@ -7,7 +7,7 @@ date: '2020-12-07T17:30:53.930Z'
 modified: '2020-12-07T17:30:53.930Z'
 tags:
   - Nessus
-  - Ubuntu 20.10
+  - Ubuntu 20.04
 categories: []
 layout: post
 ---

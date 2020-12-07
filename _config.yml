@@ -20,7 +20,7 @@ author:
   twitter: TzZek
   facebook: facebook_username
   email: your-email@email.com
-  avatar: /assets/img/avatar.jpg
+  avatar: zekhat.png
 url: 'https://klise.now.sh'
 baseurl: null
 permalink: '/:title/'

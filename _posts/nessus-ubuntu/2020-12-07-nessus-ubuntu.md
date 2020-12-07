@@ -7,7 +7,7 @@ date: '2020-12-07T17:30:53.930Z'
 modified: '2020-12-07T17:30:53.930Z'
 tags:
   - Nessus
-  - lorem-ipsum
+  - Ubuntu 20.10
 categories: []
 layout: post
 ---

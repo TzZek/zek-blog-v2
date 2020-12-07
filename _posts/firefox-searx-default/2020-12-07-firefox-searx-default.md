@@ -7,9 +7,17 @@ tags: []
 categories: []
 layout: post
 ---
-## Lorem ipsum
+**Step 1:** Choose your searX instance [here](https://searx.space/)
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+**Step 2:** Visit that webpage, and click your page actions, select "Add Search Engine"
+
+![add-search-engine](https://i.imgur.com/nEN7CWS.png)
+
+**Step 3:** Navigate to your Browser Preferences, choose the Search tab on the left, under the drop down for Default Search Engine choose searX.
+
+**Step 4:** Additionally you can uncheck / remove any search engines you do not want to use under the One-Click Search Engines area.
+
+**Sources:**
+[OpenSearch](https://github.com/dewitt/opensearch)
+[Mozilla](https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox#w_add-search-engines)

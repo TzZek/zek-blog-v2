@@ -1,7 +1,7 @@
 ---
 title: '[Firefox] Set SearX as Default Search Engine'
 description: How to configure Firefox to use SearX as the default search engine.
-date: ''
+date: '2020-09-26T11:32'
 modified: '2020-12-07T19:32:13.696Z'
 tags: []
 categories: []

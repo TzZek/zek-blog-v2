@@ -5,7 +5,8 @@ description: >-
   incididunt ut labore et dolore magna aliqua.
 date: '2020-12-07T17:30:53.930Z'
 modified: '2020-12-07T17:30:53.930Z'
-tags: []
+tags:
+  - lorem-ipsum
 categories: []
 layout: post
 ---
